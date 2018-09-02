@@ -1,0 +1,2 @@
+描述：本文记录我在训练mtcnn的过程中遇到的问题，以及解决办法。
+1、训练Pnet 后运行gen-hard-example 获取Rnet数据时，报错，提示No found erro:fc1/alpha没有。
